@@ -12,10 +12,9 @@
 
 **`Student of Programming/Professional Googler`**
 
-**I can communicate in 4 languages 🇺🇦Ukrainian 🇺🇸English 🇵🇱Polish Russian**
+**I can communicate in 4 languages 🇺🇦Ukrainian 🇺🇸English 🇵🇱Polish 🏳️‍⚧️Russian**
 
   
-[![Discord](https://img.shields.io/badge/FoxLin%234105-Discord?logo=Discord&color=9491F7&logoColor=323232&style=for-the-badge)](https://discord.com/users/1016275107687170140)
   <a href="https://github.com/Tioma-Ma?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Tioma-Ma?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://github.com/Tioma-Ma?tab=followers">
