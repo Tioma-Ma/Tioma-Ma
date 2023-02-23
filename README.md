@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Tioma-Ma">
+  <a href="https://github.com/Tioma">
     <img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/Tioma-Ma.svg" alt="Tioma-Ma" /></a>
 </p>
 <p align="center">
