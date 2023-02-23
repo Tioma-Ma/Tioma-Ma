@@ -24,7 +24,7 @@
 
 <br />
 
-### 💻 Languages what I use: 💻 ###
+### 🖥️ Languages what I use: 🖥️ ###
 <br />
 <p>
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -77,7 +77,7 @@
 
 <br />
 
-![wallpaper-anime](https://user-images.githubusercontent.com/116920374/211173283-0468186e-2d9a-4ff5-96d2-e60a2f40ddc0.gif)
+![wallpaper-anime](https://github.com/Tioma-Ma/Tioma-Ma/blob/main/new-game-ahagon-umiko-programming.gif)
 
 **`So long as a problem doesn’t cause problems, it can’t be called a problem. *hikigaya`**
 
