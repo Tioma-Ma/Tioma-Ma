@@ -12,9 +12,7 @@
 
 **`Student of Programming/Professional Googler`**
 
-I am **Elterate**. I have been studying programming for **2 years** now. During this time, I learned how to program various kinds and complexity of the program (Mathematical problems from **Project_Euler** to bots for social networks). Studied several programming languages and ready to learn more! I plan to deepen my knowledge in the field of Linux, computer networks, cryptography and application development for Linux and Windows.
-
-**I can communicate in 3 languages 🇺🇦Ukrainian 🇺🇸English 🇵🇱Polish**
+**I can communicate in 4 languages 🇺🇦Ukrainian 🇺🇸English 🇵🇱Polish Russian**
 
   
 [![Discord](https://img.shields.io/badge/FoxLin%234105-Discord?logo=Discord&color=9491F7&logoColor=323232&style=for-the-badge)](https://discord.com/users/1016275107687170140)
