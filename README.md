@@ -32,6 +32,7 @@
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </p>
 <br />
@@ -46,17 +47,20 @@
 <img align="left" alt="OpemaiAPI" width="40px" style="padding-right:10px;" img src="https://github.com/Eltertate/Eltertate/blob/main/image.png?raw=true" />
 <img align="left" alt="Atom" width="40px" style="padding-right:10px;" img src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="left" alt="Linux" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="debian" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+<img align="left" alt="Kali" width="40px" style="padding-right:10px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/kali-linux-logo-AED181186E-seeklogo.com.png" />
+<img align="left" alt="Unity" width="40px" style="padding-right:10px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/Unity_Logo.png" />
+<img align="left" alt="Github" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Trello" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="Figma" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="debian" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-<img align="left" alt="Github" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Windows" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="VS" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="VSCODE" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</p>
 
-<br />
+<img align="left" alt="Telegram" width="40px" style="padding-right:10px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/5968804.png" />
+
 <br />
 <br />
 
