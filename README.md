@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Tioma">
-    <img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/Tioma.svg" alt="Tioma" /></a>
-</p>
+
 <p align="center">
     <a href="https://github.com/Tioma-Ma">
       <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web+&pause=1000&center=true&width=435&lines=Always+learning+something+new+for+me;My+best+skill+it+a+googling;I+think+I+should+change+this+text;I'm+not+a+magician+I'm+just+learning" alt="Typing SVG" />
