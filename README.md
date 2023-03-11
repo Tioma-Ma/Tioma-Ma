@@ -39,6 +39,7 @@
 
 <br />
 <p>
+
 <img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img align="left" alt="Discord.js" width="40px" style="padding-right:10px;" img src="https://camo.githubusercontent.com/36dddbf2f91241b3bf4b31af97c6fde92f911ba621c5dae84cd3f6cdff6f4d0c/68747470733a2f2f6b6f79612e67672f6173736574732f696d672f646973636f72646a732d6c6f676f2e706e67" />
 <img align="left" alt="OpemaiAPI" width="40px" style="padding-right:10px;" img src="https://github.com/Eltertate/Eltertate/blob/main/image.png?raw=true" />
@@ -48,6 +49,8 @@
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="debian" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img align="left" alt="Kali" width="40px" style="padding-right:10px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/kali-linux-logo-AED181186E-seeklogo.com.png" />
+
+
   
 <br />
 <br />
@@ -62,6 +65,15 @@
 <img align="left" alt="VSCODE" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <img align="left" alt="Telegram" width="40px" style="padding-right:10px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/5968804.png" />
+
+<br />
+<br />
+<br />
+
+<img align="left" alt="Nmap" width="40px" style="padding-right:10px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/sitelogo-nmap-1680x900.png"/>
+<img align="left" alt="John" width="40px" style="padding-right:20px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/john-logo.png" />
+<img align="left" alt="Metasploit" width="40px" style="padding-right:20px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/metasploit-framework-logo.svg.png" />
+
 
 <br />
 <br />
