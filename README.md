@@ -74,6 +74,7 @@
 <img align="left" alt="John" width="40px" style="padding-right:20px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/john-logo.png" />
 <img align="left" alt="Metasploit" width="40px" style="padding-right:20px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/metasploit-framework-logo.svg.png" />
 <img align="left" alt="Hashcat" width="40px" style="padding-right:20px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/hashcat-logo.svg" />
+<img align="left" alt="Hydra" width="40px" style="padding-right:20px;" img src="https://github.com/Tioma-Ma/Tioma-Ma/blob/main/hydra-logo.svg"/>
 
 <br />
 <br />
