@@ -7,7 +7,7 @@
 
 # 🧑🏻‍💻 Tioma-Ma
 
-**`Student of Programming/CyberSecurity/Professional non-doiner`**
+**`Student of Programming/CyberSecurity/Professional googler`**
 
 **I can communicate in 4 languages 🇺🇦Ukrainian 🇺🇸English 🇵🇱Polish 🏳️‍⚧️Russian**
 
